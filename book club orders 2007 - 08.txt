@@ -1,0 +1,67 @@
+﻿
+
+1.  Toast  - Rebecca, Brenda, Jan, Karla, Ann Marie, Dina
+2.  Speaking with the Angel - Rebecca, Brenda, Jan, Karla, Ann Marie, Dina
+3. Left Hand of Darkness - Brenda, Jan, Karla, Marianne, Ann Marie, Dina
+4.  Pope Joan - Rebecca, Brenda, Jan, Marianne, Ann Marie, Dina
+5.  The God Delusion - Brenda, Jan, Marianne, Ann Marie, Dina
+6. A short History of Tractors in the Ukrainian - Rebecca, Brenda, Jan, Ann 
+Marie, Dina
+7 100 Years of Solitude - Rebecca, Brenda, Ann Marie, Dina
+
+
+Rebecca
+Toast 
+Speaking with the Angel 
+Pope Joan 
+A short History of Tractors in the Ukrainian 
+100 Years of Solitude 
+
+Brenda
+Toast 
+Speaking with the Angel 
+Left Hand of Darkness 
+Pope Joan  
+The God Delusion 
+A short History of Tractors in the Ukrainian  
+100 Years of Solitude  
+
+Jan
+Toast 
+Speaking with the Angel 
+Left Hand of Darkness 
+Pope Joan  
+The God Delusion 
+A short History of Tractors in the Ukrainian  
+
+Marianne
+Left Hand of Darkness
+Pope Joan
+The God Delusion
+
+Ann Marie
+Toast 
+Speaking with the Angel 
+Left Hand of Darkness 
+Pope Joan  
+The God Delusion 
+A short History of Tractors in the Ukrainian  
+100 Years of Solitude
+
+
+
+
+Karla
+Toast 
+Speaking with the Angel 
+Left Hand of Darkness 
+
+Dina
+Toast 
+Speaking with the Angel 
+Left Hand of Darkness 
+Pope Joan  
+The God Delusion 
+A short History of Tractors in the Ukrainian  
+
+
